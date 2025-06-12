@@ -1,1 +1,7 @@
 https://github.com/BorisNA/SubPlease-ZH/commits.atom
+https://github.com/dialogic-godot/dialogic/releases.atom
+https://github.com/godotengine/godot/releases.atom
+https://github.com/pluja/whishper/releases.atom
+https://github.com/umer0586/DroidPad/releases.atom
+https://github.com/voideditor/void/releases.atom
+https://gitlab.com/storyteller-platform/storyteller.atom
