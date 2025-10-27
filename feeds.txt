@@ -7,3 +7,4 @@ https://github.com/voideditor/void/releases.atom
 https://gitlab.com/storyteller-platform/storyteller.atom
 https://github.com/every-day-things/citadel.atom
 https://github.com/GriffinCanCode/Etymologistics.atom
+https://gitlab.com/storyteller-platform/storyteller/-/releases.atom
