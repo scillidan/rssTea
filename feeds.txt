@@ -9,3 +9,4 @@ https://github.com/every-day-things/citadel.atom
 https://github.com/GriffinCanCode/Etymologistics.atom
 https://gitlab.com/storyteller-platform/storyteller/-/releases.atom
 https://github.com/ivangabriele/clamav-desktop/releases.atom
+https://github.com/richardscollin/tmux-rs/releases.atom
