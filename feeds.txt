@@ -1,11 +1,3 @@
-https://github.com/real-zony/ZonyLrcToolsX/releases.atom
-https://github.com/cfgnunes/wxmp3gain/releases.atom
 https://github.com/godotengine/godot/releases.atom
-https://github.com/Arnau478/hevi/releases.atom
-https://github.com/KeppySoftware/KMC/releases.atom
-https://github.com/Tentacule/PgsToSrt/releases.atom
-https://github.com/Wowu/pro/releases.atom
-https://github.com/v0lt/svg2png/releases.atom
-https://github.com/codeinred/untree/releases.atom
-https://github.com/mmozeiko/wcap/releases.atom
 https://github.com/ananthakumaran/webify/releases.atom
+https://github.com/dialogic-godot/dialogic/releases.atom
