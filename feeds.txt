@@ -1,3 +1,4 @@
 https://github.com/godotengine/godot/releases.atom
 https://github.com/ananthakumaran/webify/releases.atom
 https://github.com/dialogic-godot/dialogic/releases.atom
+https://github.com/mulaRahul/keyviz/releases.atom
