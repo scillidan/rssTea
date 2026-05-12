@@ -2,3 +2,4 @@ https://github.com/godotengine/godot/releases.atom
 https://github.com/dialogic-godot/dialogic/releases.atom
 https://github.com/mulaRahul/keyviz/releases.atom
 https://github.com/love2d/love/releases.atom
+https://github.com/Kohei-Wada/ttymap/releases.atom
